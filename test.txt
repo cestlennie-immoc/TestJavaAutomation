@@ -2,5 +2,5 @@
 这是mergedemo里的内容
 两个已经被合并了
 version1
-
+version2
 
